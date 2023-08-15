@@ -1,0 +1,10 @@
+IA.txt
+labels_df.csv
+protein_prediction.ipynb
+sample_submission.tsv
+Test (Targets)/
+test_embeds.npy
+test_ids.npy
+Train/
+train_embeds.npy
+train_ids.npy
