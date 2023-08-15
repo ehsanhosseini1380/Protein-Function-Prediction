@@ -1,6 +1,5 @@
 IA.txt
 labels_df.csv
-protein_prediction.ipynb
 sample_submission.tsv
 Test (Targets)/
 test_embeds.npy
